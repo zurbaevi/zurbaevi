@@ -1,10 +1,10 @@
-# Hi there 👋, my name is Nika
+# Hi there 👋
 
 ![Profile views](https://gpvc.arturio.dev/zurbaevi)  
 
-I am a beginner Android developer, a fan of clean code.
-I am currently studying at GeekBrains. Now I am learning Java and Kotlin for Android development
-You can contact me in these languages: ***English,*** ***Georgian,*** and ***Russian*** <br/>
+- I am a beginner Android developer, a fan of clean code.
+- I am currently studying at GeekBrains. Now I am learning Java and Kotlin for Android development
+- You can contact me in these languages: ***English,*** ***Georgian,*** and ***Russian*** <br/>
 
 ### Conect with me:
 
