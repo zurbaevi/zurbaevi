@@ -1,11 +1,24 @@
-# Hi there 👋
-
-![Profile views](https://gpvc.arturio.dev/zurbaevi)  
-
+### <div align="center">
 - I am a beginner Android developer, a fan of clean code.
 - I am currently studying at GeekBrains. Now I am learning Java and Kotlin for Android development
-- You can contact me in these languages: ***English,*** ***Georgian,*** and ***Russian*** <br/>
+- You can contact me in these languages: English, Georgian, and Russian</div>  
 
-### Conect with me:
+## Connect with me  
+<div align="center">
+<a href="https://github.com/zurbaevi" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/zurbaevi" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/nika-zurbaevi-6a79b21ba" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/zurbaevi" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zurbaevi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nika-zurbaevi-6a79b21ba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/zurbaevi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/zurbaevi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://geekbrains.ru/users/4706985)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/zurbaevi_nika)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/zurbaevi)  
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zurbaevi&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+----
