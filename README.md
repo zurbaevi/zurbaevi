@@ -18,6 +18,9 @@
 </a>  
 <a href="https://geekbrains.ru/users/4706985" target="_blank">
 <img src=https://img.shields.io/badge/geekbrains%20-%23E4405F.svg?&style=for-the-badge&logo=mail.ru&logoColor=white alt=geekbrains style="margin-bottom: 5px;" />
+</a>
+<a href="https://t.me/zurbaevi" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>  
 
 ----
