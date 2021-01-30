@@ -16,5 +16,8 @@
 <a href="https://www.facebook.com/zurbaevi" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-  
+<a href="https://geekbrains.ru/users/4706985" target="_blank">
+<img src=https://img.shields.io/badge/geekbrains%20-%23E4405F.svg?&style=for-the-badge&logo=mail.ru&logoColor=white alt=geekbrains style="margin-bottom: 5px;" />
+</a>  
+
 ----
