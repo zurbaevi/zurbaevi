@@ -22,5 +22,8 @@
 <a href="https://t.me/zurbaevi" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>  
+<a href="https://vk.com/zurbaevi" target="_blank">
+<img src=https://img.shields.io/badge/VKontakte-%231E77B5.svg?&style=for-the-badge&logo=vk&logoColor=white alt=vk style="margin-bottom: 5px;" />
+</a>  
 
 ___
