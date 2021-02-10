@@ -1,9 +1,9 @@
 ### <div align="center">
-- I am a beginner Android developer, a fan of clean code.
-- I am currently studying at GeekBrains. Now I am learning Java and Kotlin for Android development
-- You can contact me in these languages: ***English***, ***Georgian***, and ***Russian***</div>  
+- Я начинающий Android-разработчик, фанат чистого кода.
+- Сейчас я учусь в GeekBrains. Сейчас изучаю Java и Kotlin для разработки под Android.
+- Вы можете связаться со мной на следующих языках: ***Английский,*** ***Грузинский*** и ***Русский***
 
-## Connect with me  
+## Связаться со мной
 <a href="https://github.com/zurbaevi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
