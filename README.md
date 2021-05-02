@@ -5,8 +5,7 @@ ____
 - Изучаю Java и Kotlin для разработки под Android.
 - Прохожу дополнительные курсы на других платформах для эффективного обучения.
 - Вы можете связаться со мной на следующих языках: ***Английский,*** ***Грузинский*** и ***Русский***.
-
-## Связаться со мной
+____
 <a href="https://twitter.com/zurbaevi" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -25,5 +24,4 @@ ____
 <a href="https://vk.com/zurbaevi" target="_blank">
 <img src=https://img.shields.io/badge/VKontakte-%231E77B5.svg?&style=for-the-badge&logo=vk&logoColor=white alt=vk style="margin-bottom: 5px;" />
 </a>  
-
 ___
