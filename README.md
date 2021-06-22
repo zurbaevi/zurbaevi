@@ -1,10 +1,13 @@
 ____
+
 ### <div align="center">
 - Начинающий Android-разработчик, фанат чистого кода.
 - Студент в GeekBrains факультет Geek University Android-разработки.
 - Изучаю Java и Kotlin для разработки под Android.
 - Вы можете связаться со мной на следующих языках: ***Английский,*** ***Грузинский*** и ***Русский***.
+  
 ____
+  
 <a href="https://twitter.com/zurbaevi" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
