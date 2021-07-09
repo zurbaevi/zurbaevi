@@ -4,7 +4,7 @@ ____
 - Android-разработчик, фанат чистого кода.
 - Студент в GeekBrains факультет Geek University Android-разработки.
 - Изучаю Java и Kotlin для разработки под Android.
-  
+
 ____
   
 <a href="https://twitter.com/zurbaevi" target="_blank">
